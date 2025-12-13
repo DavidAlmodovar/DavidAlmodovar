@@ -1,6 +1,7 @@
 # Hi there 👋
  ## My stats
  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/DavidAlmodovar?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidagdev&size_weight=0.5&count_weight=0.5)
 <!--
 **DavidAlmodovar/DavidAlmodovar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
