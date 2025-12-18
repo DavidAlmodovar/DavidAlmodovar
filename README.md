@@ -1,4 +1,6 @@
-# Hi there 👋
+# Hi there, I'm David Almodóvar Galvañ 👋
+### About me
+
 ## Skills
 ### Frontend
 
