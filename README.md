@@ -4,7 +4,7 @@
 ## Skills
 ### Languages
 Common European Framework of Reference for Languages (CEFR)
-<style type="text/css">
+<style type="css">
 .languages  {border-collapse:collapse;border-spacing:0;}
 .languages td{border-color:none;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
