@@ -2,6 +2,81 @@
 ### About me
 
 ## Skills
+### Languages
+<table>
+  <tr>
+    <td>Idioma</td>
+    <td>A1</td>
+    <td>A2</td>
+    <td>B1</td>
+    <td>B2</td>
+    <td>C1</td>
+    <td>C2</td>
+  </tr>
+  <tr>
+    <td>French</td>
+    <td><span class="percent">
+    <div style="width: 100%;"></div>
+    </span></td>
+    <td><span class="percent">
+    <div style="width: 0%;"></div>
+    </span></td>
+    <td><span class="percent">
+    <div style="width: 0%;"></div>
+    </span></td>
+    <td><span class="percent">
+    <div style="width: 0%;"></div>
+    </span></td>
+    <td><span class="percent">
+    <div style="width: 0%;"></div>
+    </span></td>
+    <td><span class="percent">
+    <div style="width: 0%;"></div>
+    </span></td>
+  </tr>
+  <tr>
+    <td>English</td>
+    <td><span class="percent">
+    <div style="width: 100%;"></div>
+    </span></td>
+    <td><span class="percent">
+    <div style="width: 100%;"></div>
+    </span></td>
+    <td><span class="percent">
+    <div style="width: 100%;"></div>
+    </span></td>
+    <td><span class="percent">
+    <div style="width: 0%;"></div>
+    </span></td>
+    <td><span class="percent">
+    <div style="width: 0%;"></div>
+    </span></td>
+    <td><span class="percent">
+    <div style="width: 0%;"></div>
+    </span></td>
+  </tr>
+  <tr>
+    <td>Valenciano</td>
+    <td><span class="percent">
+    <div style="width: 100%;"></div>
+    </span></td>
+    <td><span class="percent">
+    <div style="width: 100%;"></div>
+    </span></td>
+    <td><span class="percent">
+    <div style="width: 100%;"></div>
+    </span></td>
+    <td><span class="percent">
+    <div style="width: 100%;"></div>
+    </span></td>
+    <td><span class="percent">
+    <div style="width: 0%;"></div>
+    </span></td>
+    <td><span class="percent">
+    <div style="width: 0%;"></div>
+    </span></td>
+  </tr>
+</table>
 ### Frontend
 
 ### Backend
