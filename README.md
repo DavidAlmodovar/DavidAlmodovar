@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td>French</td>
-    <td bgcolor: #fff></td>
+    <td bgcolor:"#fff"></td>
     <td><span class="percent">
     <div style="width: 0%;"></div>
     </span></td>
