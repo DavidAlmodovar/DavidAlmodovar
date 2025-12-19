@@ -3,21 +3,24 @@
 
 ## Skills
 ### Languages
-.Info.language .percent{
-    position: relative;
-    width: 100%;
-    height: 10px;
-    background: #f0f0f0;
-    display: block;
-    margin-top: 5px;
-}
+<style>
+    .Info.language .percent{
+      position: relative;
+      width: 100%;
+      height: 10px;
+      background: #f0f0f0;
+      display: block;
+      margin-top: 5px;
+    }
 
-.Info.language .percent div{
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-    background: #06f6d7;
+    .Info.language .percent div{
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 100%;
+      background: #06f6d7;
+    }
+</style>
 <table class="Info language">
   <tr>
     <td>Idioma</td>
