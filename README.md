@@ -3,7 +3,7 @@
 
 ## Skills
 ### Languages
-<table class="Info language">
+<table>
   <tr>
     <td>Idioma</td>
     <td>A1</td>
@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td>French</td>
-    <td background-color: white;></td>
+    <td bgcolor: #fff></td>
     <td><span class="percent">
     <div style="width: 0%;"></div>
     </span></td>
