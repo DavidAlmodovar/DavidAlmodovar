@@ -15,7 +15,7 @@ Common European Framework of Reference for Languages (CEFR)
     <th>C2</td>
   </tr>
   <tr>
-    <td>French</td>
+    <td>:fr:French</td>
     <td>:white_check_mark:</td>
     <td></td>
     <td></td>
@@ -24,7 +24,7 @@ Common European Framework of Reference for Languages (CEFR)
     <td></td>
   </tr>
   <tr>
-    <td>English</td>
+    <td>:gb:English</td>
     <td></td>
     <td></td>
     <td>:white_check_mark:</td>
