@@ -17,63 +17,29 @@ Common European Framework of Reference for Languages (CEFR)
   <tr>
     <td>French</td>
     <td>:white_check_mark:</td>
-    <td><span class="percent">
-    <div style="width: 0%;"></div>
-    </span></td>
-    <td><span class="percent">
-    <div style="width: 0%;"></div>
-    </span></td>
-    <td><span class="percent">
-    <div style="width: 0%;"></div>
-    </span></td>
-    <td><span class="percent">
-    <div style="width: 0%;"></div>
-    </span></td>
-    <td><span class="percent">
-    <div style="width: 0%;"></div>
-    </span></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>English</td>
-    <td><span class="percent">
-    <div style="width: 100%;"></div>
-    </span></td>
-    <td><span class="percent">
-    <div style="width: 100%;"></div>
-    </span></td>
-    <td><span class="percent">
-    <div style="width: 100%;"></div>
-    </span></td>
-    <td><span class="percent">
-    <div style="width: 0%;"></div>
-    </span></td>
-    <td><span class="percent">
-    <div style="width: 0%;"></div>
-    </span></td>
-    <td><span class="percent">
-    <div style="width: 0%;"></div>
-    </span></td>
+    <td></td>
+    <td></td>
+    <td>:white_check_mark:</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Valenciano</td>
-    <td><span class="percent">
-    <div style="width: 100%;"></div>
-    </span></td>
-    <td><span class="percent">
-    <div style="width: 100%;"></div>
-    </span></td>
-    <td><span class="percent">
-    <div style="width: 100%;"></div>
-    </span></td>
-    <td><span class="percent">
-    <div style="width: 100%;"></div>
-    </span></td>
-    <td><span class="percent">
-    <div style="width: 0%;"></div>
-    </span></td>
-    <td><span class="percent">
-    <div style="width: 0%;"></div>
-    </span></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>:white_check_mark:</td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 ### Frontend
