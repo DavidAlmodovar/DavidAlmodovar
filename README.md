@@ -16,9 +16,7 @@ Common European Framework of Reference for Languages (CEFR)
   </tr>
   <tr>
     <td>French</td>
-    <td><span class="percent">
-    <div style="width: 100%;"></div>
-    </span></td>
+    <td>:white_check_mark:</td>
     <td><span class="percent">
     <div style="width: 0%;"></div>
     </span></td>
