@@ -3,24 +3,6 @@
 
 ## Skills
 ### Languages
-<style>
-    .Info.language .percent{
-      position: relative;
-      width: 100%;
-      height: 10px;
-      background: #f0f0f0;
-      display: block;
-      margin-top: 5px;
-    }
-
-    .Info.language .percent div{
-      position: absolute;
-      top: 0;
-      left: 0;
-      height: 100%;
-      background: #06f6d7;
-    }
-</style>
 <table class="Info language">
   <tr>
     <td>Idioma</td>
@@ -33,9 +15,7 @@
   </tr>
   <tr>
     <td>French</td>
-    <td><span class="percent">
-    <div style="width: 100%;"></div>
-    </span></td>
+    <td background-color: white></td>
     <td><span class="percent">
     <div style="width: 0%;"></div>
     </span></td>
