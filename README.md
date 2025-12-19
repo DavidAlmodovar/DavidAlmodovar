@@ -3,15 +3,25 @@
 
 ## Skills
 ### Languages
-<table>
+Common European Framework of Reference for Languages (CEFR)
+<style type="text/css">
+.languages  {border-collapse:collapse;border-spacing:0;}
+.languages td{border-color:none;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.languages th{border-color:none;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.languages .percent{position:relative;width:100%;height:10px;background:#f0f0f0;display:block;margin-top:5px;}
+.languages .percent div{position:absolute;top:0;left:0;height:100%;background:#06f6d7;}
+</style>
+<table class="languages">
   <tr>
-    <td>Idioma</td>
-    <td>A1</td>
-    <td>A2</td>
-    <td>B1</td>
-    <td>B2</td>
-    <td>C1</td>
-    <td>C2</td>
+    <th>Idioma</td>
+    <th>A1</td>
+    <th>A2</td>
+    <th>B1</td>
+    <th>B2</td>
+    <th>C1</td>
+    <th>C2</td>
   </tr>
   <tr>
     <td>French</td>
