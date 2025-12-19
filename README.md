@@ -15,7 +15,9 @@
   </tr>
   <tr>
     <td>French</td>
-    <td bgcolor:"green"></td>
+    <td><span class="percent">
+    <div style="width: 0%;"></div>
+    </span></td>
     <td><span class="percent">
     <div style="width: 0%;"></div>
     </span></td>
