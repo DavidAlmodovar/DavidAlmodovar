@@ -1,6 +1,29 @@
 # Hi there, I'm David Almodóvar Galvañ 👋
 ### Who am I?
-
+<!--
+```python
+ class WhoAmI:
+ 	user = 'David Almodóvar Galvañ'
+	current_edu = "I.E.S. Severo Ochoa Elche"
+	hobbies = [
+				'Drawing',
+				'Watching Anime',
+				'Reading Sci-Fi Novels'
+				'Being up all Night chasing that ONE BUG...'
+			]
+	
+	def getCity():
+		return Hyderabad_India()
+	
+	def Ambitions():
+		LearnJapanese()
+		CreateSkyNet()
+		FinishMyNovel()
+		# Assume 10 more awesome ambitions here  ;)
+	
+ ```
+ -->
+ 
 ## Skills
 ### Languages
 Common European Framework of Reference for Languages (CEFR)
