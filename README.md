@@ -64,6 +64,7 @@ Common European Framework of Reference for Languages (CEFR)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAlmodovar&size_weight=0.5&count_weight=0.5)
 <!--
 **DavidAlmodovar/DavidAlmodovar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://gist.github.com/rxaviers/7360908
 https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
 https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/MarikIshtar007.md
 Here are some ideas to get you started:
