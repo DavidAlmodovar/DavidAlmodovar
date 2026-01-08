@@ -19,7 +19,7 @@
 ### :speech_balloon: Languages
 Common European Framework of Reference for Languages (CEFR)
 ![Spanish](https://img.shields.io/badge/Spanish-Native-brightgreen)
-![Valenciano](https://img.shields.io/badge/Valenciano-C1-blue)
+![Valenciano](https://img.shields.io/badge/Valenciano-B2-blue)
 ![English](https://img.shields.io/badge/English-B1-yellow)
 ![French](https://img.shields.io/badge/French-A1-red)
 
