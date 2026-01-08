@@ -2,14 +2,18 @@
 ### Who am I?
 
 ```python
- class WhoAmI:
- 	user = 'David Almodóvar Galvañ'
-	current_edu = "Multiplatform Application Development at I.E.S. Severo Ochoa Elche"
-	hobbies = [
-				'Strength training',
-				'Running',
-				'Reading Sci-Fi Novels'
-			]
+ class DavidAlmodovar:
+    def __init__(self):
+        self.name = "David Almodóvar Galvañ"
+        self.role = "Student of Multiplatform Application Development"
+        self.location = "Spain"
+        
+    def get_hobbies(self):
+        return ["Strength training", "Running", "Sci-Fi Novels"]
+
+    def current_focus(self):
+        return "Building robust Multiplatform Apps & Mastering Backend logic"
+
  ```
 ## Skills
 ### :speech_balloon: Languages
