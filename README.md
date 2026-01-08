@@ -57,12 +57,17 @@ Common European Framework of Reference for Languages (CEFR)
   </tr>
 </table>
 
-### 🔜 Frontend
+### 🛠 Technologies & Tools
 
-### 🔜 Backend
+**Frontend**
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
-### Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+**Backend**
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
+**Tools**
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
+
 ## My stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/DavidAlmodovar?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAlmodovar&size_weight=0.5&count_weight=0.5)
