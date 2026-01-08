@@ -18,44 +18,11 @@
 ## Skills
 ### :speech_balloon: Languages
 Common European Framework of Reference for Languages (CEFR)
-<table>
-  <tr>
-    <th>Idioma</td>
-    <th>A1</td>
-    <th>A2</td>
-    <th>B1</td>
-    <th>B2</td>
-    <th>C1</td>
-    <th>C2</td>
-  </tr>
-  <tr>
-    <td>:fr: French</td>
-    <td>:white_check_mark:</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>:gb: English</td>
-    <td></td>
-    <td></td>
-    <td>:white_check_mark:</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Valenciano</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>:white_check_mark:</td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+![Spanish](https://img.shields.io/badge/Spanish-Native-brightgreen)
+![Valenciano](https://img.shields.io/badge/Valenciano-C1-blue)
+![English](https://img.shields.io/badge/English-B1-yellow)
+![French](https://img.shields.io/badge/French-A1-red)
+
 
 ### 🛠 Technologies & Tools
 
