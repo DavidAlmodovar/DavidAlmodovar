@@ -12,7 +12,7 @@
 			]
  ```
 ## Skills
-### Languages
+### :speech_balloon: Languages
 Common European Framework of Reference for Languages (CEFR)
 <table>
   <tr>
