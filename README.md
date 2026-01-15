@@ -44,6 +44,7 @@ Common European Framework of Reference for Languages (CEFR)
 https://gist.github.com/rxaviers/7360908
 https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
 https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/MarikIshtar007.md
+https://github.com/kautukkundan/Awesome-Profile-README-templates/blob/master/code-styled/anmol098.md
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
