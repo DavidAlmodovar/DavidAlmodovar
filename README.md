@@ -22,7 +22,6 @@ Common European Framework of Reference for Languages (CEFR)
 * ![Valenciano](https://img.shields.io/badge/🥘_Valenciano-B2-yellow) ![Progress](https://geps.dev/progress/67)
 * ![English](https://img.shields.io/badge/🇬🇧_English-B1-yellow) ![Progress](https://geps.dev/progress/50)
 * ![French](https://img.shields.io/badge/🇫🇷_French-A1-red) ![Progress](https://geps.dev/progress/20)
-)
 
 ### 🛠 Technologies & Tools
 
