@@ -2,7 +2,7 @@
 ### Who am I?
 
 ```python
- class davidagdev:
+ class DavidAlmodovar:
     def __init__(self):
         self.name = "David Almodóvar Galvañ"
         self.role = "Student of Multiplatform Application Development"
